@@ -1,0 +1,10 @@
+.nav-item,
+.nav-title{
+    color: #1a4136;
+}
+
+@media screen and (max-width: 767px) {
+    .nav-title {
+        padding-left: 1rem;
+    }
+}
